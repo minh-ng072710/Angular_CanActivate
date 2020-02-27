@@ -1,0 +1,8 @@
+﻿4/2:xác thực route(https://www.youtube.com/watch?v=o2qC-wbGkfQ&feature=youtu.be&fbclid=IwAR3ADpDDgDTA_RShkmyJ20HqWImieaoELQ4J7ujmTH06_yYY9v7VuhqgR4Y)
+Route admin: là admin đã đăng nhập r nó mới hiện ra trang đó(xác thực đăng nhập)
+=>viết service kiểm tra và xác thực
+b1:viết route
+b2:viết CanActivate Guards để xác thực coi đăng nhập chưa
+
+
+viets service trong com nào muốn check login chưa: trả về true mới đi tiếp false thì k 
